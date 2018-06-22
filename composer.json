@@ -1,0 +1,8 @@
+{
+  "name": "hoaxly/review_rest",
+  "description": "Provides a basic REST API for reviews.",
+  "type": "drupal-module",
+  "version": "8.x-1.0",
+  "license": "GPL-2.0-or-later",
+  "require": {}
+}

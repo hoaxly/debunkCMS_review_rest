@@ -1,4 +1,4 @@
-This module provides configuration for the review DebunkedCMS REST API.
+This module provides configuration for the review DebunkCMS REST API.
 
 It can be accessed using the following paths:
 
