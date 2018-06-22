@@ -1,0 +1,14 @@
+name: review_rest
+description: 'Provides a basic REST API for reviews.'
+type: module
+core: 8.x
+version: '8.x-1.0'
+dependencies:
+  - hal
+  - metatag
+  - node
+  - rest
+  - review
+  - serialization
+  - user
+  - views
